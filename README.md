@@ -1,2 +1,3 @@
 # The-Sparks-Foundation
- Creating Machine Learning models in R
+ Task #1- Linear Regression
+ Task #2 - Decision Tree
