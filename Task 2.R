@@ -12,4 +12,4 @@ datacluster <- kmeans(data[,2:4],3,nstart = 20)
 print(datacluster)
 table(datacluster$cluster,data$Species)
 #plotting the clusters
-clusplot(data,datacluster$cluster,color=T,shade=T,labels=0)
+clusplot(data,datacluster$cluster,color=T,shade=T,labels=0,lines=0)
